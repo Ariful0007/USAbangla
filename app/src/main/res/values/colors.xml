@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--colros for card-->
+
+    //login and register
+    <!--normal colors-->
+
+    //color combine
+    <color name="com6">#66A5AD</color>
+    <!--colors for light mode-->
+
+
+    <!--colors for crop activity-->
+    <!--<color name="ucrop_color_toolbar">@color/teal_500</color>-->
+    <!--<color name="ucrop_color_statusbar">@color/teal_700</color>-->
+    <!--<color name="ucrop_color_widget_active">@color/teal_500</color>-->
+    //
+
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    //color combine
+    //colors ses
+
+
+    <!--normal colors-->
+
+
+    <!--colors for light mode-->
+    <color name="whiteTextColor">#fff</color>
+
+    <!--colors for light mode-->
+
+    <!--gradient colors-->
+
+    <!--colors for nongradientversion-->
+    <!--colors for crop activity-->
+    <!--<color name="ucrop_color_toolbar">@color/teal_500</color>-->
+    <!--<color name="ucrop_color_statusbar">@color/teal_700</color>-->
+    <!--<color name="ucrop_color_widget_active">@color/teal_500</color>-->
+    <color name="black">#000</color>
+
+    //bloodbank
+
+
+    <color name="green">#00c853</color>
+    <color name="toolbar">#244E4A</color>
+
+
+    <!-- Screens background color-->
+
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+
+
+</resources>

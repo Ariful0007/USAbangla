@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="loginViewsMargin">20dp</dimen>
+    <!--start activity-->
+
+    //
+<dimen name="padding_8">8dp</dimen>
+
+    <dimen name="space_50dp">50dp</dimen>
+<dimen name="space_10dp">10dp</dimen>
+    //new
+
+    <!--shimmer dimes-->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    //
+
+
+</resources>

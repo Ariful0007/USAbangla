@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">USA Bangla Newspaper</string>
+
+
+    <!--Navigation drawer items-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+
+
+    ///
+
+
+    <!-- aduinit id section-->
+    <!-- <string name="admob_app_id">ca-app-pub-7774473624959541~2879529577</string>
+     <string name="ad_unit_id">ca-app-pub-7774473624959541/6375775669</string>
+     <string name="interstitial">ca-app-pub-7774473624959541/9439825222</string> -->
+
+</resources>
